@@ -1,4 +1,4 @@
-# Azure IP Test Application 
+# Azure Information Protection Test Application 
 This is a sample Console application using the IpcManagedAPI to encrypt a select document
 Using this Sample application you can encrypt text, Micrsoft Office, and Pdf documents
 To read the protected documents you need to use the Azure Information Protection application
@@ -14,3 +14,4 @@ This application will either apply Policies that have been created in Azure Info
 
 
 Attribution to Lessley Dennigton and Emad Ataei
+Barcode OCR by Raposinha
