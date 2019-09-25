@@ -13,5 +13,4 @@ This application will either apply Policies that have been created in Azure Info
 - All of the above are needed before you proceed
 
 
-Attribution to Lessley Dennigton and Emad Ataei
-Barcode OCR by Raposinha
+Attribution to Lessley Dennigton and Emad Ataei / Barcode OCR by Raposinha
