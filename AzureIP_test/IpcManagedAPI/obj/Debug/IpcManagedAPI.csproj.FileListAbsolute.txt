@@ -1,0 +1,6 @@
+C:\Users\v-joguim\Documents\Azure-Information-Protection-Samples-master\AzureIP_Test\AzureIP_test\IpcManagedAPI\bin\Debug\IpcManagedAPI.dll
+C:\Users\v-joguim\Documents\Azure-Information-Protection-Samples-master\AzureIP_Test\AzureIP_test\IpcManagedAPI\bin\Debug\IpcManagedAPI.pdb
+C:\Users\v-joguim\Documents\Azure-Information-Protection-Samples-master\AzureIP_Test\AzureIP_test\IpcManagedAPI\obj\Debug\IpcManagedAPI.csprojResolveAssemblyReference.cache
+C:\Users\v-joguim\Documents\Azure-Information-Protection-Samples-master\AzureIP_Test\AzureIP_test\IpcManagedAPI\obj\Debug\IpcManagedAPI.csproj.CoreCompileInputs.cache
+C:\Users\v-joguim\Documents\Azure-Information-Protection-Samples-master\AzureIP_Test\AzureIP_test\IpcManagedAPI\obj\Debug\IpcManagedAPI.dll
+C:\Users\v-joguim\Documents\Azure-Information-Protection-Samples-master\AzureIP_Test\AzureIP_test\IpcManagedAPI\obj\Debug\IpcManagedAPI.pdb
